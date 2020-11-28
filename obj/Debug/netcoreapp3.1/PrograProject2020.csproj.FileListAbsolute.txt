@@ -72,3 +72,7 @@ C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\Progr
 C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.pdb
 C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.genruntimeconfig.cache
 C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.csproj.CopyComplete
+C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CatalogoHombre.cshtml.g.cs
+C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CatalogoMujer.cshtml.g.cs
+C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CatalogoNina.cshtml.g.cs
+C:\Users\PC\Desktop\Calzados app\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CatalogoNino.cshtml.g.cs

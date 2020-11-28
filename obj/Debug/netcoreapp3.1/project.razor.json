@@ -14407,8 +14407,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\Catalogo\\Catalogo.cshtml",
-      "TargetPath": "Views\\Catalogo\\Catalogo.cshtml",
+      "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\Catalogo\\CatalogoHombre.cshtml",
+      "TargetPath": "Views\\Catalogo\\CatalogoHombre.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\Catalogo\\CatalogoMujer.cshtml",
+      "TargetPath": "Views\\Catalogo\\CatalogoMujer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\Catalogo\\CatalogoNina.cshtml",
+      "TargetPath": "Views\\Catalogo\\CatalogoNina.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14429,6 +14439,11 @@
     {
       "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PC\\Desktop\\Calzados app\\PrograProject2020\\Views\\Catalogo\\CatalogoNino.cshtml",
+      "TargetPath": "Views\\Catalogo\\CatalogoNino.cshtml",
       "FileKind": "mvc"
     }
   ],

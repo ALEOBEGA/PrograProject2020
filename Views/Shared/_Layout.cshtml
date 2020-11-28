@@ -24,6 +24,17 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Catalogo
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="CatalogoHombre">CatalogoHombre</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="CatalogoMujer">CatalogoMujer</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="CatalogoNina">CatalogoNiña</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="CatalogoNino">CatalogoNiño</a>
+                       </div>
+                       </div>
                     </ul>
                 </div>
             </div>
