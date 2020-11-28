@@ -152,3 +152,5 @@ C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\o
 C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.pdb
 C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.genruntimeconfig.cache
 C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\obj\Debug\netcoreapp3.1\PrograProject2020.csproj.CopyComplete
+C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Login.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Labo\Reg-Log\PrograProject2020\obj\Debug\netcoreapp3.1\Razor\Views\Cuenta\Registrar.cshtml.g.cs
