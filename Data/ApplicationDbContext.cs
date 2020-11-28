@@ -14,7 +14,7 @@ namespace PrograProject2020.Data
         {
         }
   
-        public DbSet<EShopDemo.Models.Cliente> Clientes { get; set; }
+        public DbSet<PrograProject2020.Models.Cliente> Clientes { get; set; }
 
     }
 }
