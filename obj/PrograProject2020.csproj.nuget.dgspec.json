@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\PrograProject2020\\PrograProject2020.csproj": {}
+    "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\zapateria\\PrograProject2020\\PrograProject2020.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\PrograProject2020\\PrograProject2020.csproj": {
+    "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\zapateria\\PrograProject2020\\PrograProject2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\PrograProject2020\\PrograProject2020.csproj",
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\zapateria\\PrograProject2020\\PrograProject2020.csproj",
         "projectName": "PrograProject2020",
-        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\PrograProject2020\\PrograProject2020.csproj",
+        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\zapateria\\PrograProject2020\\PrograProject2020.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\PrograProject2020\\obj\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\progra1-lab\\zapateria\\PrograProject2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
